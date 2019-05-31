@@ -1,0 +1,17 @@
+{
+    "name": "nullview\/style",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nullview",
+            "email": "viewnull@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NullView\\Style\\": "src"
+        }
+    }
+}
